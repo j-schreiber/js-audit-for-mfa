@@ -1,0 +1,15 @@
+Admin:
+  permissions:
+    allowedClassifications:
+      - Critical
+      - High
+      - Medium
+      - Low
+Non Privileged User:
+  permissions:
+    userPermissions:
+      denied:
+        - CustomizeApplication
+        - ViewAllData
+        - ModifyAllData
+        - AuthorApex

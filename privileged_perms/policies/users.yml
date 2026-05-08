@@ -1,0 +1,7 @@
+enabled: true
+rules:
+  EnforcePermissionClassifications:
+    enabled: true
+options:
+  analyseLastNDaysOfLoginHistory: 30
+  defaultRoleForMissingUsers: Non Privileged User
