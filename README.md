@@ -23,7 +23,7 @@ The audit results list all sources, so you know exactly where to look.
 
 ## Audit Your Org
 
-1. Make sure you have the [Security Audit Engine](securityauditengine.org) installed.
+1. Make sure you have the [Security Audit Engine](https://securityauditengine.org) installed.
 
 ```bash
 sf plugins install @j-schreiber/sf-cli-security-audit
